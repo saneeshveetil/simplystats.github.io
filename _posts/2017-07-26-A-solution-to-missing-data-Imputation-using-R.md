@@ -1,5 +1,3 @@
-
-Editor’s note this is a guest post by Perceptive Analytics
 ---
 title: A solution to missing data: Imputation using R
 author: Perceptive Analytics
